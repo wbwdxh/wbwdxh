@@ -6,3 +6,4 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbwdxh) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbw121124) |
 | ![wbwdxh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wbwdxh&theme=github) | ![wbw121124's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wbw121124&theme=github) |
 | ![wbwdxh's GitHub stats](https://github-immortality.vercel.app/api?username=wbwdxh) | ![wbw121124's GitHub stats](https://github-immortality.vercel.app/api?username=wbw121124) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=wbwdxh) | ![GitHub Streak](https://streak-stats.demolab.com/?user=wbw121124) |
