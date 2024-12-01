@@ -1,6 +1,6 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=wbwdxh&color=blue&style=flat-square)![](https://komarev.com/ghpvc/?username=wbw121124&color=blue&style=flat-square)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E7%9C%9F&width=1000&lines=C%2B%2B%3A+a+garbage+language+that+even+dogs+don't+learn--+Father+of+Linux;G%C3%A5+med+MC+utan+%C3%A5nger+i+detta+liv%2C+och+vill+vara+en+fyrkantig+person+i+n%C3%A4sta+liv!;What+hurts+more,+the+pain+of+hard+work+or+the+pain+of+regret?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=1000&lines=C%2B%2B%3A+a+garbage+language+that+even+dogs+don't+learn--+Father+of+Linux;G%C3%A5+med+MC+utan+%C3%A5nger+i+detta+liv%2C+och+vill+vara+en+fyrkantig+person+i+n%C3%A4sta+liv!;What+hurts+more,+the+pain+of+hard+work+or+the+pain+of+regret?)](https://git.io/typing-svg)
 
 | wbwdxh | wbw121124 |
 | :---: | :---:|
